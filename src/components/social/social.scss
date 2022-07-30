@@ -1,0 +1,13 @@
+.main__step__share {
+  &.main__step {
+    background-color: #FFFAE0;
+  }
+
+  .main__step__share--item {
+      a {
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+  }
+}

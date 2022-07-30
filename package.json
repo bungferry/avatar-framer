@@ -1,0 +1,23 @@
+{
+  "name": "avatar-framer",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build-pages": "vite build --base=/avatar-framer/",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dropzone": "^6.0.0-beta.2",
+    "fabric": "^5.2.1",
+    "reset-css": "^5.0.1",
+    "vue": "^3.2.25",
+    "vue-social-sharing": "^4.0.0-alpha4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.9",
+    "vite": "^2.8.0"
+  }
+}
