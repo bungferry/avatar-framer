@@ -249,7 +249,7 @@ defineExpose({
               id="upload"
               class="main__step__btn"
           >
-            Загрузить
+            Unggah
           </button>
         </div>
       </div>
@@ -317,7 +317,7 @@ defineExpose({
         </div>
         <div class="main__step__input">
           <button @click="downloadFile">
-            Скачать
+            Unduh
           </button>
           </div>
       </div>
