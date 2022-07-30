@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-      🙏 спасибо, что не остаетесь в стороне
+      🙏 Terima kasih atas kunjungannya.
       </div>
         
 </template>
