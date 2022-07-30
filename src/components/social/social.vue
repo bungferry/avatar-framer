@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="main__step main__step--4">
     <div class="main__step___message">
       <span class="main__step__count">4</span>
@@ -74,4 +74,4 @@ export default defineComponent({
 });
 </script>
 
-<style lang="scss" src="./social.scss"/>
+<style lang="scss" src="./social.scss"/> -->
