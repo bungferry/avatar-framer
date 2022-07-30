@@ -232,18 +232,17 @@ defineExpose({
 <template>
   <div class="wrapper">
     <div class="main__header">
-      <p class="main__hash">#МОЛЧАНИЕ<span>УБИВАЕТ</span></p>
-      <h1 class="main__title">Давайте остановим войну</h1>
+      <p class="main__hash">#Twibbon<span>Generator</span></p>
+      <h1 class="main__title">Mari kita hentikan perang.</h1>
       <p class="main__slogan">
-        <strong>Ваше молчание убивает людей 🇺🇦 и 🇷🇺.</strong> Любая огласка сейчас поможет прекратить это всё.
-        Сделайте свой вклад в мир во всем мире!
+        Ini adalah situs web tempat Anda dapat menambahkan foto ke dalam bingkai.
       </p>
     </div>
     <div class="main__steps">
       <div class="main__step main__step--1">
         <div class="main__step___message">
           <span class="main__step__count">1</span>
-          <div class="main__step__text">Загрузите ваш аватар</div>
+          <div class="main__step__text">Unggah avatar Anda</div>
         </div>
         <div class="main__step__input">
           <button
@@ -257,7 +256,7 @@ defineExpose({
       <div class="main__step">
         <div class="main__step___message">
           <span class="main__step__count">2</span>
-          <div class="main__step__text">Выберите рамку для аватара</div>
+          <div class="main__step__text">Pilih bingkai untuk avatar Anda</div>
         </div>
         <div class="main__step__builder">
           <div
@@ -314,7 +313,7 @@ defineExpose({
       <div class="main__step main__step--1">
         <div class="main__step___message">
           <span class="main__step__count">3</span>
-          <div class="main__step__text">Скачайте картинку и установите на аватарку</div>
+          <div class="main__step__text">Unduh gambar dan atur sebagai avatar</div>
         </div>
         <div class="main__step__input">
           <button @click="downloadFile">
